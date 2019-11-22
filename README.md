@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Fairness
 
-You can use the [editor on GitHub](https://github.com/romanlutz/ResponsibleAI/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Lending
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Hiring
 
-### Markdown
+## Pre-trial risk assessment and criminal sentencing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- COMPAS
 
-```markdown
-Syntax highlighted code block
+## Admissions
 
-# Header 1
-## Header 2
-### Header 3
+- law school admissions
+- Medical school admissions:
+    - [British Medical Journal: A blot on the profession](https://www.bmj.com/content/296/6623/657)
 
-- Bulleted
-- List
+# Privacy
 
-1. Numbered
-2. List
+## Facial Recognition
 
-**Bold** and _Italic_ and `Code` text
+# Information distribution
 
-[Link](url) and ![Image](src)
-```
+## Ads
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Probing the Dark Side of Google’s Ad-Targeting System](https://www.technologyreview.com/s/539021/probing-the-dark-side-of-googles-ad-targeting-system/)
 
-### Jekyll Themes
+## Search
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/romanlutz/ResponsibleAI/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [Bias already exists in search engine results, and it’s only going to get worse](https://www.technologyreview.com/s/610275/meet-the-woman-who-searches-out-search-engines-bias-against-women-and-minorities/)
+- [Truth in pictures: What Google image searches tell us about inequality at work](https://www.diversityemployers.com/blog/2017/05/truth-in-pictures-what-google-image-searches-tell-us-about-inequality-at-work/)
 
-### Support or Contact
+## Translations
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
