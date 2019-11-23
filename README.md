@@ -7,6 +7,7 @@ This is a living document, so please send suggestions for additions through "Iss
 ## Lending & Credit approval
 
 - [Gender Bias Complaints against Apple Card Signal a Dark Side to Fintech](https://hbswk.hbs.edu/item/gender-bias-complaints-against-apple-card-signal-a-dark-side-to-fintech)
+- [Exploring Racial Discrimination in Mortgage Lending: A Call for Greater Transparency](https://listwithclever.com/real-estate-blog/racial-discrimination-in-mortgage-lending/)
 
 ## Hiring
 
