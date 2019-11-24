@@ -92,6 +92,7 @@ This is a living document, so please send suggestions for additions through "Iss
 
 ## Health
 
+- [Intelligible Models for HealthCare: Predicting Pneumonia Risk and Hospital 30-day Readmission](http://people.dbmi.columbia.edu/noemie/papers/15kdd.pdf)
 - [IBM pitched its Watson supercomputer as a revolution in cancer care. It’s nowhere close](https://www.statnews.com/2017/09/05/watson-ibm-cancer/)
 
 # Privacy
