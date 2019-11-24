@@ -12,6 +12,7 @@ This is a living document, so please send suggestions for additions through "Iss
 ## Hiring
 
 - [Amazon scraps secret AI recruiting tool that showed bias against women](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G)
+- [Automated Employment Discrimination](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3437631)
 
 ## Employee evaluation
 
