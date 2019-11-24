@@ -90,6 +90,10 @@ This is a living document, so please send suggestions for additions through "Iss
 
 - [Google employee protest: Now Google backs off Pentagon drone AI project](https://www.zdnet.com/article/google-employee-protests-now-google-backs-off-pentagon-drone-ai-project/)
 
+## Health
+
+- [IBM pitched its Watson supercomputer as a revolution in cancer care. It’s nowhere close](https://www.statnews.com/2017/09/05/watson-ibm-cancer/)
+
 # Privacy
 
 - [Privacy Attacks on Machine Learning Models](https://www.infoq.com/articles/privacy-attacks-machine-learning-models/)
