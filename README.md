@@ -86,6 +86,10 @@ This is a living document, so please send suggestions for additions through "Iss
 
 - [Remember the Uber self-driving car that killed a woman crossing the street? The AI had no clue about jaywalkers](https://www.theregister.co.uk/2019/11/06/uber_self_driving_car_death/)
 
+## Weaponized AI
+
+- [Google employee protest: Now Google backs off Pentagon drone AI project](https://www.zdnet.com/article/google-employee-protests-now-google-backs-off-pentagon-drone-ai-project/)
+
 # Privacy
 
 - [Privacy Attacks on Machine Learning Models](https://www.infoq.com/articles/privacy-attacks-machine-learning-models/)
