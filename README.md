@@ -80,6 +80,10 @@ This is a living document, so please send suggestions for additions through "Iss
 
 - [The Big Data Jury](https://scholarship.law.nd.edu/ndlr/vol91/iss3/2/)
 
+## Dating
+
+- [Coffee Meets Bagel: The Online Dating Site That Helps You Weed Out The Creeps](https://www.laweekly.com/coffee-meets-bagel-the-online-dating-site-that-helps-you-weed-out-the-creeps/)
+
 # Safety
 
 ## Self-driving cars
