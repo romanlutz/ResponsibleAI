@@ -108,3 +108,7 @@ This is a living document, so please send suggestions for additions through "Iss
 
 - [The new lending game, post-demonetisation](https://tech.economictimes.indiatimes.com/news/technology/the-new-lending-game-post-demonetisation/56367457)
 - [Perpetual Debt in the Silicon Savannah](http://bostonreview.net/class-inequality-global-justice/kevin-p-donovan-emma-park-perpetual-debt-silicon-savannah)
+
+## Work
+
+- [Woman fired after disabling work app that tracked her movements 24/7](https://www.theverge.com/2015/5/13/8597081/worker-gps-fired-myrna-arias-xora)
