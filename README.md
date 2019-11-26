@@ -88,6 +88,7 @@ This is a living document, so please send suggestions for additions through "Iss
 
 - [Coffee Meets Bagel: The Online Dating Site That Helps You Weed Out The Creeps](https://www.laweekly.com/coffee-meets-bagel-the-online-dating-site-that-helps-you-weed-out-the-creeps/)
 - [The Biases we feed to Tinder algorithms](https://www.diggitmagazine.com/articles/biases-we-feed-tinder-algorithms)
+- [Redesign dating apps to lessen racial bias, study recommends](http://news.cornell.edu/stories/2018/09/redesign-dating-apps-lessen-racial-bias-study-recommends)
 
 # Safety
 
