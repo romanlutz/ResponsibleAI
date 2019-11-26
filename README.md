@@ -107,3 +107,4 @@ This is a living document, so please send suggestions for additions through "Iss
 ## Lending
 
 - [The new lending game, post-demonetisation](https://tech.economictimes.indiatimes.com/news/technology/the-new-lending-game-post-demonetisation/56367457)
+- [Perpetual Debt in the Silicon Savannah](http://bostonreview.net/class-inequality-global-justice/kevin-p-donovan-emma-park-perpetual-debt-silicon-savannah)
