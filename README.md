@@ -8,6 +8,7 @@ This is a living document, so please send suggestions for additions through "Iss
 
 - [Gender Bias Complaints against Apple Card Signal a Dark Side to Fintech](https://hbswk.hbs.edu/item/gender-bias-complaints-against-apple-card-signal-a-dark-side-to-fintech)
 - [Exploring Racial Discrimination in Mortgage Lending: A Call for Greater Transparency](https://listwithclever.com/real-estate-blog/racial-discrimination-in-mortgage-lending/)
+- [DFS Issues Guidance to Life Insurers on Use of “External Data” in Underwriting Decisions](https://www.jdsupra.com/legalnews/dfs-issues-guidance-to-life-insurers-on-45997/)
 
 ## Hiring
 
