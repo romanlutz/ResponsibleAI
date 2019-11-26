@@ -35,6 +35,7 @@ This is a living document, so please send suggestions for additions through "Iss
 - [The Perpetual Line-Up - Unregulated police face recognition in America](https://www.perpetuallineup.org/)
 - [Stuck in a Pattern: Early evidence on "predictive policing" and civil rights](https://www.upturn.org/reports/2016/stuck-in-a-pattern/)
 - [Crime-prediction tool PredPol amplifies racially biased policing, study shows](https://www.mic.com/articles/156286/crime-prediction-tool-pred-pol-only-amplifies-racially-biased-policing-study-shows#.DZeqQ4LYs)
+- [Criminal machine learning](https://callingbullshit.org/case_studies/case_study_criminal_machine_learning.html)
 
 ## Admissions
 
