@@ -103,3 +103,7 @@ This is a living document, so please send suggestions for additions through "Iss
 # Privacy
 
 - [Privacy Attacks on Machine Learning Models](https://www.infoq.com/articles/privacy-attacks-machine-learning-models/)
+
+## Lending
+
+- [The new lending game, post-demonetisation](https://tech.economictimes.indiatimes.com/news/technology/the-new-lending-game-post-demonetisation/56367457)
