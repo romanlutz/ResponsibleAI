@@ -100,6 +100,7 @@ This is a living document, so please send suggestions for additions through "Iss
 ## Weaponized AI
 
 - [Google employee protest: Now Google backs off Pentagon drone AI project](https://www.zdnet.com/article/google-employee-protests-now-google-backs-off-pentagon-drone-ai-project/)
+- [Google Wants to Do Business With the Military—Many of Its Employees Don’t](https://www.bloomberg.com/features/2019-google-military-contract-dilemma/)
 
 ## Health
 
