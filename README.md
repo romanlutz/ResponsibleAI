@@ -119,3 +119,7 @@ This is a living document, so please send suggestions for additions through "Iss
 ## Work
 
 - [Woman fired after disabling work app that tracked her movements 24/7](https://www.theverge.com/2015/5/13/8597081/worker-gps-fired-myrna-arias-xora)
+
+## Voice Recognition
+
+- [Prison tech company is questioned for retaining ‘voice prints’ of people presumed innocent](https://theappeal.org/jails-across-the-u-s-are-extracting-the-voice-prints-of-people-presumed-innocent/)
