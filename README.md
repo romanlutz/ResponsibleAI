@@ -137,3 +137,10 @@ Word Embeddings may affect many of the categories above through applications tha
 ## Surveillance and Tracking
 
 - [Twelve Million Phones, One Dataset, Zero Privacy](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html) shines a light on data privacy (or the lack thereof). That same data may be used to for ML as well.
+
+
+# General books about Responsible AI
+
+Many of the books in this area cover a wide range of topics. Below is a list of a few of them:
+
+- [Artificial Unintelligence - How Computers Misunderstand the World](https://mitpress.mit.edu/books/artificial-unintelligence) by [Meredith Broussard](https://merbroussard.github.io/)
