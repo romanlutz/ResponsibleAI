@@ -135,6 +135,7 @@ Word Embeddings may affect many of the categories above through applications tha
 - [Prison tech company is questioned for retaining ‘voice prints’ of people presumed innocent](https://theappeal.org/jails-across-the-u-s-are-extracting-the-voice-prints-of-people-presumed-innocent/)
 - [Twelve Million Phones, One Dataset, Zero Privacy](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html) shines a light on data privacy (or the lack thereof). That same data may be used to for ML as well.
 - [OkCupid Study Reveals the Perils of Big-Data Science](https://www.wired.com/2016/05/okcupid-study-reveals-perils-big-data-science/)
+- [“We Are the Product”: Public Reactions to Online Data Sharing and Privacy Controversies in the Media](https://cmci.colorado.edu/~cafi5706/CHI2018_FieslerHallinan.pdf)
 
 
 # General resources about Responsible AI
