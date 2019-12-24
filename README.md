@@ -146,4 +146,5 @@ Many of the books and articles in this area cover a wide range of topics. Below 
 - [Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor](https://us.macmillan.com/books/9781250074317) by [Virginia Eubanks](https://virginia-eubanks.com/)
 - [Fairness and machine learning - Limitations and Opportunities](https://fairmlbook.org/) by [Solon Barocas](http://solon.barocas.org/), [Moritz Hardt](https://mrtz.org/), [Arvind Narayanan](http://randomwalker.info/)
 - [How I'm fighting bias in algorithms](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms?language=en) by [Joy Buolamwini](https://www.poetofcode.com/)
+- [Tech Ethics Curriculum](https://docs.google.com/spreadsheets/d/1jWIrA8jHz5fYAW4h9CkUD8gKS5V98PDJDymRf8d9vKI/edit#gid=1174187227) by [Casey Fiesler](https://caseyfiesler.com/)
 - [Weapons of Math Destruction](https://weaponsofmathdestructionbook.com/) by [Cathy O'Neil](https://mathbabe.org/)
