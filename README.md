@@ -139,10 +139,11 @@ Word Embeddings may affect many of the categories above through applications tha
 - [Twelve Million Phones, One Dataset, Zero Privacy](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html) shines a light on data privacy (or the lack thereof). That same data may be used to for ML as well.
 
 
-# General books about Responsible AI
+# General resources about Responsible AI
 
-Many of the books in this area cover a wide range of topics. Below is a list of a few of them:
+Many of the books and articles in this area cover a wide range of topics. Below is a list of a few of them, sorted alphabetically by title:
 
+- [A Hippocratic Oath for artificial intelligence practitioners](https://techcrunch.com/2018/03/14/a-hippocratic-oath-for-artificial-intelligence-practitioners/) by [Oren Etzioni](https://allenai.org/team/orene/)
 - [Artificial Unintelligence - How Computers Misunderstand the World](https://mitpress.mit.edu/books/artificial-unintelligence) by [Meredith Broussard](https://merbroussard.github.io/)
 - [Fairness and machine learning - Limitations and Opportunities](https://fairmlbook.org/) by [Solon Barocas](http://solon.barocas.org/), [Moritz Hardt](https://mrtz.org/), [Arvind Narayanan](http://randomwalker.info/)
 - [Weapons of Math Destruction](https://weaponsofmathdestructionbook.com/) by [Cathy O'Neil](https://mathbabe.org/)
