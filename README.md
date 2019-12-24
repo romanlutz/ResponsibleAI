@@ -130,13 +130,11 @@ Word Embeddings may affect many of the categories above through applications tha
 
 - [Woman fired after disabling work app that tracked her movements 24/7](https://www.theverge.com/2015/5/13/8597081/worker-gps-fired-myrna-arias-xora)
 
-## Voice Recognition
+## Problematic data collection and publication/sale
 
 - [Prison tech company is questioned for retaining ‘voice prints’ of people presumed innocent](https://theappeal.org/jails-across-the-u-s-are-extracting-the-voice-prints-of-people-presumed-innocent/)
-
-## Surveillance and Tracking
-
 - [Twelve Million Phones, One Dataset, Zero Privacy](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html) shines a light on data privacy (or the lack thereof). That same data may be used to for ML as well.
+- [OkCupid Study Reveals the Perils of Big-Data Science](https://www.wired.com/2016/05/okcupid-study-reveals-perils-big-data-science/)
 
 
 # General resources about Responsible AI
