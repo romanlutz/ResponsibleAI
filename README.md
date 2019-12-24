@@ -58,6 +58,7 @@ This is a living document, so please send suggestions for additions through "Iss
 - [The viral selfie app ImageNet Roulette seemed fun – until it called me a racist slur](https://www.theguardian.com/technology/2019/sep/17/imagenet-roulette-asian-racist-slur-selfie)
 - [Google Is Investigating Why it Trained Facial Recognition on 'Dark Skinned' Homeless People](https://www.vice.com/en_uk/article/43k7yd/google-is-investigating-why-it-trained-facial-recognition-on-dark-skinned-homeless-people)
 - [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
+- [Machines Taught by Photos Learn a Sexist View of Women](https://www.wired.com/story/machines-taught-by-photos-learn-a-sexist-view-of-women/)
 
 ## Public Benefits & Health
 
