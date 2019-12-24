@@ -51,12 +51,13 @@ This is a living document, so please send suggestions for additions through "Iss
 - [Oh dear... AI models used to flag hate speech online are, er, racist against black people](https://www.theregister.co.uk/2019/10/11/ai_black_people/)
 - [The Risk of Racial Bias in Hate Speech Detection](https://homes.cs.washington.edu/~msap/pdfs/sap2019risk.pdf)
 
-## Image Labelling
+## Image Labelling & Face Recognition
 
 - [Google Photos identified two black people as 'gorillas'](https://mashable.com/2015/07/01/google-photos-black-people-gorillas/)
 - [When It Comes to Gorillas, Google Photos Remains Blind](https://www.wired.com/story/when-it-comes-to-gorillas-google-photos-remains-blind/)
 - [The viral selfie app ImageNet Roulette seemed fun – until it called me a racist slur](https://www.theguardian.com/technology/2019/sep/17/imagenet-roulette-asian-racist-slur-selfie)
 - [Google Is Investigating Why it Trained Facial Recognition on 'Dark Skinned' Homeless People](https://www.vice.com/en_uk/article/43k7yd/google-is-investigating-why-it-trained-facial-recognition-on-dark-skinned-homeless-people)
+- [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 
 ## Public Benefits & Health
 
