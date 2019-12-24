@@ -93,6 +93,11 @@ This is a living document, so please send suggestions for additions through "Iss
 - [The Biases we feed to Tinder algorithms](https://www.diggitmagazine.com/articles/biases-we-feed-tinder-algorithms)
 - [Redesign dating apps to lessen racial bias, study recommends](http://news.cornell.edu/stories/2018/09/redesign-dating-apps-lessen-racial-bias-study-recommends)
 
+## Word Embeddings
+
+Word Embeddings may affect many of the categories above through applications that use them.
+- [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)
+
 # Safety
 
 ## Self-driving cars
