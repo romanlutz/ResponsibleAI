@@ -105,7 +105,9 @@ This is a living document, so please send suggestions for additions through "Iss
 
 ## Health
 
-- [Intelligible Models for HealthCare: Predicting Pneumonia Risk and Hospital 30-day Readmission](http://people.dbmi.columbia.edu/noemie/papers/15kdd.pdf)
+- Model interpretability in Medicine
+  - [Intelligible Models for HealthCare: Predicting Pneumonia Risk and Hospital 30-day Readmission](http://people.dbmi.columbia.edu/noemie/papers/15kdd.pdf) shows importance of model interpretability for such critical decisions.
+  - [Rich Caruana--Friends Don't Let Friends Release Black Box Models in Medicine](https://www.youtube.com/watch?v=iyGh46NA8tk)
 - [IBM pitched its Watson supercomputer as a revolution in cancer care. It’s nowhere close](https://www.statnews.com/2017/09/05/watson-ibm-cancer/)
 
 # Privacy
