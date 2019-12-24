@@ -126,3 +126,7 @@ This is a living document, so please send suggestions for additions through "Iss
 ## Voice Recognition
 
 - [Prison tech company is questioned for retaining ‘voice prints’ of people presumed innocent](https://theappeal.org/jails-across-the-u-s-are-extracting-the-voice-prints-of-people-presumed-innocent/)
+
+## Surveillance and Tracking
+
+- [Twelve Million Phones, One Dataset, Zero Privacy](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html) shines a light on data privacy (or the lack thereof). That same data may be used to for ML as well.
