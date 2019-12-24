@@ -148,6 +148,7 @@ Many of the books and articles in this area cover a wide range of topics. Below 
 - [Algorithms of Oppression - How Search Engines Reinforce Racism](http://algorithmsofoppression.com/) by [Safiya Umoja Noble](https://safiyaunoble.com/)
 - [Artificial Unintelligence - How Computers Misunderstand the World](https://mitpress.mit.edu/books/artificial-unintelligence) by [Meredith Broussard](https://merbroussard.github.io/)
 - [Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor](https://us.macmillan.com/books/9781250074317) by [Virginia Eubanks](https://virginia-eubanks.com/)
+- [Big Data's Disparate Impact](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2477899) by [Solon Barocas](http://solon.barocas.org/) and [Andrew Selbst](https://andrewselbst.com/)
 - [Fairness and machine learning - Limitations and Opportunities](https://fairmlbook.org/) by [Solon Barocas](http://solon.barocas.org/), [Moritz Hardt](https://mrtz.org/), [Arvind Narayanan](http://randomwalker.info/)
 - [How I'm fighting bias in algorithms](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms?language=en) by [Joy Buolamwini](https://www.poetofcode.com/)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by [Christoph Molnar](https://christophm.github.io/)
