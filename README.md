@@ -145,5 +145,6 @@ Many of the books and articles in this area cover a wide range of topics. Below 
 
 - [A Hippocratic Oath for artificial intelligence practitioners](https://techcrunch.com/2018/03/14/a-hippocratic-oath-for-artificial-intelligence-practitioners/) by [Oren Etzioni](https://allenai.org/team/orene/)
 - [Artificial Unintelligence - How Computers Misunderstand the World](https://mitpress.mit.edu/books/artificial-unintelligence) by [Meredith Broussard](https://merbroussard.github.io/)
+- [Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor](https://us.macmillan.com/books/9781250074317) by [Virginia Eubanks](https://virginia-eubanks.com/)
 - [Fairness and machine learning - Limitations and Opportunities](https://fairmlbook.org/) by [Solon Barocas](http://solon.barocas.org/), [Moritz Hardt](https://mrtz.org/), [Arvind Narayanan](http://randomwalker.info/)
 - [Weapons of Math Destruction](https://weaponsofmathdestructionbook.com/) by [Cathy O'Neil](https://mathbabe.org/)
