@@ -144,4 +144,5 @@ Word Embeddings may affect many of the categories above through applications tha
 Many of the books in this area cover a wide range of topics. Below is a list of a few of them:
 
 - [Artificial Unintelligence - How Computers Misunderstand the World](https://mitpress.mit.edu/books/artificial-unintelligence) by [Meredith Broussard](https://merbroussard.github.io/)
+- [Fairness and machine learning - Limitations and Opportunities](https://fairmlbook.org/) by [Solon Barocas](http://solon.barocas.org/), [Moritz Hardt](https://mrtz.org/), [Arvind Narayanan](http://randomwalker.info/)
 - [Weapons of Math Destruction](https://weaponsofmathdestructionbook.com/) by [Cathy O'Neil](https://mathbabe.org/)
