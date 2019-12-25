@@ -126,6 +126,8 @@ Word Embeddings may affect many of the categories above through applications tha
 
 # Privacy
 
+## Machine Learning-based privacy attacks
+
 - [Privacy Attacks on Machine Learning Models](https://www.infoq.com/articles/privacy-attacks-machine-learning-models/)
 
 ## Lending
@@ -137,13 +139,30 @@ Word Embeddings may affect many of the categories above through applications tha
 
 - [Woman fired after disabling work app that tracked her movements 24/7](https://www.theverge.com/2015/5/13/8597081/worker-gps-fired-myrna-arias-xora)
 
-## Problematic data collection and publication/sale
+## Prison tech
 
 - [Prison tech company is questioned for retaining ‘voice prints’ of people presumed innocent](https://theappeal.org/jails-across-the-u-s-are-extracting-the-voice-prints-of-people-presumed-innocent/)
+
+## Location data
+
 - [Twelve Million Phones, One Dataset, Zero Privacy](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html) shines a light on data privacy (or the lack thereof). That same data may be used to for ML as well.
+
+## Social media & dating
+
 - [OkCupid Study Reveals the Perils of Big-Data Science](https://www.wired.com/2016/05/okcupid-study-reveals-perils-big-data-science/)
 - [“We Are the Product”: Public Reactions to Online Data Sharing and Privacy Controversies in the Media](https://cmci.colorado.edu/~cafi5706/CHI2018_FieslerHallinan.pdf)
 - [“Anonymized” data really isn’t—and here’s why not](https://arstechnica.com/tech-policy/2009/09/your-secrets-live-online-in-databases-of-ruin/)
+
+## Health
+
+- [Health Insurers Are Vacuuming Up Details About You — And It Could Raise Your Rates](https://www.npr.org/sections/health-shots/2018/07/17/629441555/health-insurers-are-vacuuming-up-details-about-you-and-it-could-raise-your-rates)
+- [How Your Medical Data Fuels a Hidden Multi-Billion Dollar Industry](https://time.com/4588104/medical-data-industry/)
+- [23andMe's Pharma Deals Have Been the Plan All Along](https://www.wired.com/story/23andme-glaxosmithkline-pharma-deal/)
+- [If You Want Life Insurance, Think Twice Before Getting A Genetic Test](https://www.fastcompany.com/3055710/if-you-want-life-insurance-think-twice-before-getting-genetic-testing)
+- [Medical Start-up Invited Millions Of Patients To Write Reviews They May Not Realize Are Public. Some Are Explicit.](https://www.forbes.com/sites/kashmirhill/2013/10/21/practice-fusion-patient-privacy-explicit-reviews/#2918de354ae3)
+- [Help Desk: Can your medical records become marketing? We investigate a reader’s suspicious ‘patient portal.’](https://www.washingtonpost.com/technology/2019/10/22/help-desk-can-your-medical-records-become-marketing-we-investigate-readers-suspicious-patient-portal/)
+- [Is your pregnancy app sharing your intimate data with your boss?](https://www.washingtonpost.com/technology/2019/04/10/tracking-your-pregnancy-an-app-may-be-more-public-than-you-think/)
+- [Data Crisis: Who Owns Your Medical Records?](https://www.sandiegomagazine.com/San-Diego-Magazine/October-2016/Top-Doctors-2016-Innovation-in-Health-and-Medicine/Data-Crisis-Who-Owns-Your-Medical-Records/)
 
 
 # General resources about Responsible AI
