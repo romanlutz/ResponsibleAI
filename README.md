@@ -15,6 +15,7 @@ This is a living document, so please send suggestions for additions through "Iss
 - [Amazon scraps secret AI recruiting tool that showed bias against women](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G)
 - [Automated Employment Discrimination](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3437631)
 - [Help wanted: an examination of hiring algorithms, equity, and bias](https://apo.org.au/node/210071)
+- [All the Ways Hiring Algorithms Can Introduce Bias](https://hbr.org/2019/05/all-the-ways-hiring-algorithms-can-introduce-bias)
 
 ## Employee evaluation
 
