@@ -151,6 +151,9 @@ Word Embeddings may affect many of the categories above through applications tha
 
 - [OkCupid Study Reveals the Perils of Big-Data Science](https://www.wired.com/2016/05/okcupid-study-reveals-perils-big-data-science/)
 - [“We Are the Product”: Public Reactions to Online Data Sharing and Privacy Controversies in the Media](https://cmci.colorado.edu/~cafi5706/CHI2018_FieslerHallinan.pdf)
+
+## Basic anonymization as an insufficient measure
+
 - [“Anonymized” data really isn’t—and here’s why not](https://arstechnica.com/tech-policy/2009/09/your-secrets-live-online-in-databases-of-ruin/)
 
 ## Health
