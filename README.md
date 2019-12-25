@@ -102,6 +102,10 @@ This is a living document, so please send suggestions for additions through "Iss
 Word Embeddings may affect many of the categories above through applications that use them.
 - [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)
 
+## Gerrymandering
+
+- [When drawing a line is hard](https://medium.com/equal-future/when-drawing-a-line-is-hard-8d92d30c9044)
+
 # Safety
 
 ## Self-driving cars
