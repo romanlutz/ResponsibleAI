@@ -61,6 +61,7 @@ This is a living document, so please send suggestions for additions through "Iss
 - [Google Is Investigating Why it Trained Facial Recognition on 'Dark Skinned' Homeless People](https://www.vice.com/en_uk/article/43k7yd/google-is-investigating-why-it-trained-facial-recognition-on-dark-skinned-homeless-people)
 - [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 - [Machines Taught by Photos Learn a Sexist View of Women](https://www.wired.com/story/machines-taught-by-photos-learn-a-sexist-view-of-women/)
+- [Tenants sounded the alarm on facial recognition in their buildings. Lawmakers are listening.](https://www.msn.com/en-us/news/politics/tenants-sounded-the-alarm-on-facial-recognition-in-their-buildings-lawmakers-are-listening/ar-BBYnaqB)
 
 ## Public Benefits & Health
 
@@ -146,6 +147,7 @@ Word Embeddings may affect many of the categories above through applications tha
 ## Location data
 
 - [Twelve Million Phones, One Dataset, Zero Privacy](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html) shines a light on data privacy (or the lack thereof). That same data may be used to for ML as well.
+- [Tenants sounded the alarm on facial recognition in their buildings. Lawmakers are listening.](https://www.msn.com/en-us/news/politics/tenants-sounded-the-alarm-on-facial-recognition-in-their-buildings-lawmakers-are-listening/ar-BBYnaqB)
 
 ## Social media & dating
 
