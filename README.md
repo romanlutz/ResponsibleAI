@@ -140,6 +140,7 @@ Word Embeddings may affect many of the categories above through applications tha
 ## Work
 
 - [Woman fired after disabling work app that tracked her movements 24/7](https://www.theverge.com/2015/5/13/8597081/worker-gps-fired-myrna-arias-xora)
+- [Limitless Worker Surveillance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2746211)
 
 ## Prison tech
 
