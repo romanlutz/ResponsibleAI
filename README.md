@@ -16,6 +16,7 @@ This is a living document, so please send suggestions for additions through "Iss
 - [Automated Employment Discrimination](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3437631)
 - [Help wanted: an examination of hiring algorithms, equity, and bias](https://apo.org.au/node/210071)
 - [All the Ways Hiring Algorithms Can Introduce Bias](https://hbr.org/2019/05/all-the-ways-hiring-algorithms-can-introduce-bias)
+- [Mitigating Bias in Algorithmic Hiring: Evaluating Claims and Practices](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3408010)
 
 ## Employee evaluation
 
