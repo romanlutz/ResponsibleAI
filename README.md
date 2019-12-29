@@ -24,11 +24,10 @@ This is a living document, so please send suggestions for additions through "Iss
 
 ## Pre-trial risk assessment and criminal sentencing
 
-- COMPAS:
-    - [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
-    - [How We Analyzed the COMPAS Recidivism Algorithm](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)
-    - [GitHub repository for COMPAS analysis](https://github.com/propublica/compas-analysis)
-    - [Can you make AI fairer than a judge? Play our courtroom algorithm game](https://www.technologyreview.com/s/613508/ai-fairer-than-judge-criminal-risk-assessment-algorithm/)
+- [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+- [How We Analyzed the COMPAS Recidivism Algorithm](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)
+- [GitHub repository for COMPAS analysis](https://github.com/propublica/compas-analysis)
+- [Can you make AI fairer than a judge? Play our courtroom algorithm game](https://www.technologyreview.com/s/613508/ai-fairer-than-judge-criminal-risk-assessment-algorithm/)
     
 ## Predictive Policing & Other Law Enforcement Use Cases
 
