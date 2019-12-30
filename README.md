@@ -17,6 +17,7 @@ This is a living document, so please send suggestions for additions through "Iss
 - [Help wanted: an examination of hiring algorithms, equity, and bias](https://apo.org.au/node/210071)
 - [All the Ways Hiring Algorithms Can Introduce Bias](https://hbr.org/2019/05/all-the-ways-hiring-algorithms-can-introduce-bias)
 - [Mitigating Bias in Algorithmic Hiring: Evaluating Claims and Practices](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3408010)
+- [Help Wanted - An Examination of Hiring Algorithms, Equity, and Bias](https://www.upturn.org/static/reports/2018/hiring-algorithms/files/Upturn%20--%20Help%20Wanted%20-%20An%20Exploration%20of%20Hiring%20Algorithms,%20Equity%20and%20Bias.pdf)
 
 ## Employee evaluation
 
