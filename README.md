@@ -50,10 +50,11 @@ This is a living document, so please send suggestions for additions through "Iss
 
 - [Custom Software Helps Cities Manage School Choice](https://www.edweek.org/ew/articles/2013/12/04/13algorithm_ep.h33.html)
 
-## Hate Speech Detection
+## Speech Detection
 
 - [Oh dear... AI models used to flag hate speech online are, er, racist against black people](https://www.theregister.co.uk/2019/10/11/ai_black_people/)
 - [The Risk of Racial Bias in Hate Speech Detection](https://homes.cs.washington.edu/~msap/pdfs/sap2019risk.pdf)
+- [Toxicity and Tone Are Not The Same Thing: analyzing the new Google API on toxicity, PerspectiveAPI.](https://medium.com/@carolinesinders/toxicity-and-tone-are-not-the-same-thing-analyzing-the-new-google-api-on-toxicity-perspectiveapi-14abe4e728b3)
 
 ## Image Labelling & Face Recognition
 
