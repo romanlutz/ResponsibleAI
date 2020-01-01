@@ -75,6 +75,7 @@ This is a living document, so please send suggestions for additions through "Iss
 - [What happens when an algorithm cuts your health care](https://www.theverge.com/2018/3/21/17144260/healthcare-medicaid-algorithm-arkansas-cerebral-palsy)
 - [China Knows How to Take Away Your Health Insurance](https://www.bloomberg.com/opinion/articles/2019-06-14/china-knows-how-to-take-away-your-health-insurance)
 - [Foretelling the Future: A Critical Perspective on the Use of Predictive Analytics in Child Welfare](http://kirwaninstitute.osu.edu/wp-content/uploads/2017/05/ki-predictive-analytics.pdf)
+- [There’s no quick fix to find racial bias in health care algorithms](https://www.theverge.com/2019/12/4/20995178/racial-bias-health-care-algorithms-cory-booker-senator-wyden)
 
 ## Ads
 
