@@ -82,6 +82,7 @@ This is a living document, so please send suggestions for additions through "Iss
 - [Probing the Dark Side of Google’s Ad-Targeting System](https://www.technologyreview.com/s/539021/probing-the-dark-side-of-googles-ad-targeting-system/)
 - [Facebook Engages in Housing Discrimination With Its Ad Practices, U.S. Says](https://www.nytimes.com/2019/03/28/us/politics/facebook-housing-discrimination.html)
 - [Facebook Job Ads Raise Concerns About Age Discrimination](https://www.outtengolden.com/facebook-job-ads-raise-concerns-about-age-discrimination-nyt)
+- [Facebook Ads Can Still Discriminate Against Women and Older Workers, Despite a Civil Rights Settlement](https://www.propublica.org/article/facebook-ads-can-still-discriminate-against-women-and-older-workers-despite-a-civil-rights-settlement)
 - [Women less likely to be shown ads for high-paid jobs on Google, study shows](https://www.theguardian.com/technology/2015/jul/08/women-less-likely-ads-high-paid-jobs-google-study)
 - [Algorithms That “Don’t See Color”: Comparing Biases in Lookalike and Special Ad Audiences](https://sapiezynski.com/papers/sapiezynski2019algorithms.pdf)
 
