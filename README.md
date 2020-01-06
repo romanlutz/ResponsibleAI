@@ -178,6 +178,7 @@ Word Embeddings may affect many of the categories above through applications tha
 - [Help Desk: Can your medical records become marketing? We investigate a reader’s suspicious ‘patient portal.’](https://www.washingtonpost.com/technology/2019/10/22/help-desk-can-your-medical-records-become-marketing-we-investigate-readers-suspicious-patient-portal/)
 - [Is your pregnancy app sharing your intimate data with your boss?](https://www.washingtonpost.com/technology/2019/04/10/tracking-your-pregnancy-an-app-may-be-more-public-than-you-think/)
 - [Data Crisis: Who Owns Your Medical Records?](https://www.sandiegomagazine.com/San-Diego-Magazine/October-2016/Top-Doctors-2016-Innovation-in-Health-and-Medicine/Data-Crisis-Who-Owns-Your-Medical-Records/)
+- [This Bluetooth Tampon Is the Smartest Thing You Can Put In Your Vagina](https://gizmodo.com/this-bluetooth-tampon-is-the-smartest-thing-you-can-put-1777044090) didn't mention the privacy concerns of such a device. [This Twitter comment adds the necessary comment.](https://twitter.com/DrRanjanaDas/status/1213940445245509671?s=20) 
 
 
 # General resources about Responsible AI
