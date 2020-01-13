@@ -182,6 +182,11 @@ Word Embeddings may affect many of the categories above through applications tha
 - [This Bluetooth Tampon Is the Smartest Thing You Can Put In Your Vagina](https://gizmodo.com/this-bluetooth-tampon-is-the-smartest-thing-you-can-put-1777044090) didn't mention the privacy concerns of such a device. [This Twitter comment adds the necessary comment.](https://twitter.com/DrRanjanaDas/status/1213940445245509671?s=20) 
 
 
+# Anti-Money Laundering
+
+- [Trusting Machine Learning in Anti-Money Laundering: A Risk-Based Approach](http://www.caspian.co.uk/rba/RBA.pdf)
+
+
 # General resources about Responsible AI
 
 Many of the books and articles in this area cover a wide range of topics. Below is a list of a few of them, sorted alphabetically by title:
