@@ -181,6 +181,10 @@ Word Embeddings may affect many of the categories above through applications tha
 - [Data Crisis: Who Owns Your Medical Records?](https://www.sandiegomagazine.com/San-Diego-Magazine/October-2016/Top-Doctors-2016-Innovation-in-Health-and-Medicine/Data-Crisis-Who-Owns-Your-Medical-Records/)
 - [This Bluetooth Tampon Is the Smartest Thing You Can Put In Your Vagina](https://gizmodo.com/this-bluetooth-tampon-is-the-smartest-thing-you-can-put-1777044090) didn't mention the privacy concerns of such a device. [This Twitter comment adds the necessary comment.](https://twitter.com/DrRanjanaDas/status/1213940445245509671?s=20) 
 
+## Face Recognition
+
+- [Clearview AI: We Are ‘Working to Acquire All U.S. Mugshots’ From Past 15 Years](https://onezero.medium.com/clearview-ai-we-are-working-to-acquire-all-u-s-mugshots-from-past-15-years-645d92319f33)
+
 
 # Anti-Money Laundering
 
