@@ -185,6 +185,10 @@ Word Embeddings may affect many of the categories above through applications tha
 
 - [Clearview AI: We Are ‘Working to Acquire All U.S. Mugshots’ From Past 15 Years](https://onezero.medium.com/clearview-ai-we-are-working-to-acquire-all-u-s-mugshots-from-past-15-years-645d92319f33)
 
+## Supply of goods
+
+- [Grocers Stopped Stockpiling Food. Then Came Coronavirus.](https://www.wsj.com/articles/grocers-stopped-stockpiling-food-then-came-coronavirus-11584982605)
+
 
 # Anti-Money Laundering
 
