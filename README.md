@@ -117,6 +117,10 @@ Word Embeddings may affect many of the categories above through applications tha
 
 - [When drawing a line is hard](https://medium.com/equal-future/when-drawing-a-line-is-hard-8d92d30c9044)
 
+## Recommender systems
+
+- [Why is TikTok creating filter bubbles based on your race?](https://www.wired.co.uk/article/tiktok-filter-bubbles)
+
 # Safety
 
 ## Self-driving cars
