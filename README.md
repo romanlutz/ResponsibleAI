@@ -126,6 +126,7 @@ Word Embeddings may affect many of the categories above through applications tha
 ## Self-driving cars
 
 - [Remember the Uber self-driving car that killed a woman crossing the street? The AI had no clue about jaywalkers](https://www.theregister.co.uk/2019/11/06/uber_self_driving_car_death/)
+- [Franken-algorithms: The Deadly Consequences of Unpredictable Code](https://getpocket.com/explore/item/franken-algorithms-the-deadly-consequences-of-unpredictable-code)
 
 ## Weaponized AI
 
