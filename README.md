@@ -69,6 +69,7 @@ This is a living document, so please send suggestions for additions through "Iss
 - [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 - [Machines Taught by Photos Learn a Sexist View of Women](https://www.wired.com/story/machines-taught-by-photos-learn-a-sexist-view-of-women/)
 - [Tenants sounded the alarm on facial recognition in their buildings. Lawmakers are listening.](https://www.msn.com/en-us/news/politics/tenants-sounded-the-alarm-on-facial-recognition-in-their-buildings-lawmakers-are-listening/ar-BBYnaqB)
+- [Google apologizes after its Vision AI produced racist results](https://algorithmwatch.org/en/story/google-vision-racism/)
 
 ## Public Benefits & Health
 
