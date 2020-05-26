@@ -60,6 +60,7 @@ This is a living document, so please send suggestions for additions through "Iss
 - [Voice Is the Next Big Platform, Unless You Have an Accent](https://www.wired.com/2017/03/voice-is-the-next-big-platform-unless-you-have-an-accent/)
 - [Google’s speech recognition has a gender bias](https://makingnoiseandhearingthings.com/2016/07/12/googles-speech-recognition-has-a-gender-bias/)
 - [Fair Speech report by Stanford Computational Policy Lab](https://fairspeech.stanford.edu/), also covered in [Speech recognition algorithms may also have racial bias](https://arstechnica.com/science/2020/03/speech-recognition-algorithms-may-also-have-racial-bias/)
+- [Automated moderation tool from Google rates People of Color and gays as “toxic”](https://algorithmwatch.org/en/story/automated-moderation-perspective-bias/)
 
 ## Image Labelling & Face Recognition
 
