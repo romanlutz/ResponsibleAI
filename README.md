@@ -61,6 +61,7 @@ This is a living document, so please send suggestions for additions through "Iss
 - [Google’s speech recognition has a gender bias](https://makingnoiseandhearingthings.com/2016/07/12/googles-speech-recognition-has-a-gender-bias/)
 - [Fair Speech report by Stanford Computational Policy Lab](https://fairspeech.stanford.edu/), also covered in [Speech recognition algorithms may also have racial bias](https://arstechnica.com/science/2020/03/speech-recognition-algorithms-may-also-have-racial-bias/)
 - [Automated moderation tool from Google rates People of Color and gays as “toxic”](https://algorithmwatch.org/en/story/automated-moderation-perspective-bias/)
+- [Someone made an AI that predicted gender from email addresses, usernames. It went about as well as expected](https://www.theregister.com/2020/07/30/genderify_shuts_down/)
 
 ## Image Labelling & Face Recognition
 
