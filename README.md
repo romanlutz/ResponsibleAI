@@ -210,6 +210,7 @@ Word Embeddings may affect many of the categories above through applications tha
 Many of the books and articles in this area cover a wide range of topics. Below is a list of a few of them, sorted alphabetically by title:
 
 - [A Hippocratic Oath for artificial intelligence practitioners](https://techcrunch.com/2018/03/14/a-hippocratic-oath-for-artificial-intelligence-practitioners/) by [Oren Etzioni](https://allenai.org/team/orene/)
+- [Algorithms, Correcting Biases](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3300171) by [Cass Sunstein](https://hls.harvard.edu/faculty/directory/10871/Sunstein)
 - [Algorithms of Oppression - How Search Engines Reinforce Racism](http://algorithmsofoppression.com/) by [Safiya Umoja Noble](https://safiyaunoble.com/)
 - [Artificial Unintelligence - How Computers Misunderstand the World](https://mitpress.mit.edu/books/artificial-unintelligence) by [Meredith Broussard](https://merbroussard.github.io/)
 - [Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor](https://us.macmillan.com/books/9781250074317) by [Virginia Eubanks](https://virginia-eubanks.com/)
@@ -220,4 +221,5 @@ Many of the books and articles in this area cover a wide range of topics. Below 
 - [How I'm fighting bias in algorithms](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms?language=en) by [Joy Buolamwini](https://www.poetofcode.com/)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by [Christoph Molnar](https://christophm.github.io/)
 - [Tech Ethics Curriculum](https://docs.google.com/spreadsheets/d/1jWIrA8jHz5fYAW4h9CkUD8gKS5V98PDJDymRf8d9vKI/edit#gid=1174187227) by [Casey Fiesler](https://caseyfiesler.com/)
+- [The Measure and Mismeasure of Fairness: A Critical Review of Machine Learning](https://5harad.com/papers/fair-ml.pdf) by [Sam Corbett-Davis](https://samcorbettdavies.com/) and [Sharad Goel](https://5harad.com/)
 - [Weapons of Math Destruction](https://weaponsofmathdestructionbook.com/) by [Cathy O'Neil](https://mathbabe.org/)
