@@ -91,6 +91,7 @@ This is a living document, so please send suggestions for additions through "Iss
 - [Facebook Ads Can Still Discriminate Against Women and Older Workers, Despite a Civil Rights Settlement](https://www.propublica.org/article/facebook-ads-can-still-discriminate-against-women-and-older-workers-despite-a-civil-rights-settlement)
 - [Women less likely to be shown ads for high-paid jobs on Google, study shows](https://www.theguardian.com/technology/2015/jul/08/women-less-likely-ads-high-paid-jobs-google-study)
 - [Algorithms That “Don’t See Color”: Comparing Biases in Lookalike and Special Ad Audiences](https://sapiezynski.com/papers/sapiezynski2019algorithms.pdf)
+- [Facebook is letting job advertisers target only men](https://www.propublica.org/article/facebook-is-letting-job-advertisers-target-only-men)
 
 ## Search
 
