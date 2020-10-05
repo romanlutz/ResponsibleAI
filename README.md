@@ -127,6 +127,10 @@ Word Embeddings may affect many of the categories above through applications tha
 
 - [Why is TikTok creating filter bubbles based on your race?](https://www.wired.co.uk/article/tiktok-filter-bubbles)
 
+## Picking areas for improved service
+
+- [Amazon Doesn’t Consider the Race of Its Customers. Should It?](https://www.bloomberg.com/graphics/2016-amazon-same-day/)
+
 # Safety
 
 ## Self-driving cars
