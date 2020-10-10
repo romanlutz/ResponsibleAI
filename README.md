@@ -43,6 +43,7 @@ This is a living document, so please send suggestions for additions through "Iss
 - [The Liar’s Walk - Detecting Deception with Gait and Gesture](http://gamma.cs.unc.edu/GAIT/files/Deception_LSTM.pdf)
 - [Federal study confirms racial bias of many facial-recognition systems, casts doubt on their expanding use](https://www.washingtonpost.com/technology/2019/12/19/federal-study-confirms-racial-bias-many-facial-recognition-systems-casts-doubt-their-expanding-use/)
 - [Return of physiognomy? Facial recognition study says it can identify criminals from looks alone](https://www.rt.com/news/368307-facial-recognition-criminal-china/)
+- [Live facial recognition is tracking kids suspected of being criminals](https://www.technologyreview.com/2020/10/09/1009992/live-facial-recognition-is-tracking-kids-suspected-of-crime/)
 
 ## Admissions
 
