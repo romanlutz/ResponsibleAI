@@ -223,9 +223,11 @@ Many of the books and articles in this area cover a wide range of topics. Below 
 - [Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor](https://us.macmillan.com/books/9781250074317) by [Virginia Eubanks](https://virginia-eubanks.com/)
 - [Big Data's Disparate Impact](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2477899) by [Solon Barocas](http://solon.barocas.org/) and [Andrew D. Selbst](https://andrewselbst.com/)
 - [Datasheets for Datasets](https://arxiv.org/abs/1803.09010) by [Timnit Gebru](http://ai.stanford.edu/~tgebru/) et al.
+- [Design Justice](https://design-justice.pubpub.org/) by [Sasha Costanza-Chock](https://www.schock.cc/)
 - [Fairness and Abstraction in Sociotechnical Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3265913) by [Andrew D. Selbst](https://andrewselbst.com/), [danah boyd](https://www.danah.org/), [Sorelle Friedler](http://sorelle.friedler.net/), [Suresh Venkatasubramanian](http://www.cs.utah.edu/~suresh/), [Janet Vertesi](https://janet.vertesi.com/)
 - [Fairness and machine learning - Limitations and Opportunities](https://fairmlbook.org/) by [Solon Barocas](http://solon.barocas.org/), [Moritz Hardt](https://mrtz.org/), [Arvind Narayanan](http://randomwalker.info/)
 - [How I'm fighting bias in algorithms](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms?language=en) by [Joy Buolamwini](https://www.poetofcode.com/)
+- [Race after Technology](https://www.ruhabenjamin.com/race-after-technology) by [Ruha Benjamin](https://www.ruhabenjamin.com)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by [Christoph Molnar](https://christophm.github.io/)
 - [Tech Ethics Curriculum](https://docs.google.com/spreadsheets/d/1jWIrA8jHz5fYAW4h9CkUD8gKS5V98PDJDymRf8d9vKI/edit#gid=1174187227) by [Casey Fiesler](https://caseyfiesler.com/)
 - [The Measure and Mismeasure of Fairness: A Critical Review of Machine Learning](https://5harad.com/papers/fair-ml.pdf) by [Sam Corbett-Davis](https://samcorbettdavies.com/) and [Sharad Goel](https://5harad.com/)
