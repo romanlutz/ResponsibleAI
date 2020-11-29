@@ -176,6 +176,7 @@ Word Embeddings may affect many of the categories above through applications tha
 
 - [Twelve Million Phones, One Dataset, Zero Privacy](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html) shines a light on data privacy (or the lack thereof). That same data may be used to for ML as well.
 - [Tenants sounded the alarm on facial recognition in their buildings. Lawmakers are listening.](https://www.msn.com/en-us/news/politics/tenants-sounded-the-alarm-on-facial-recognition-in-their-buildings-lawmakers-are-listening/ar-BBYnaqB)
+- [Face for sale: Leaks and lawsuits blight Russia facial recognition](https://www.reuters.com/article/us-russia-privacy-lawsuit-feature-trfn/face-for-sale-leaks-and-lawsuits-blight-russia-facial-recognition-idUSKBN27P10U)
 
 ## Social media & dating
 
@@ -201,6 +202,7 @@ Word Embeddings may affect many of the categories above through applications tha
 ## Face Recognition
 
 - [Clearview AI: We Are ‘Working to Acquire All U.S. Mugshots’ From Past 15 Years](https://onezero.medium.com/clearview-ai-we-are-working-to-acquire-all-u-s-mugshots-from-past-15-years-645d92319f33)
+- [Face for sale: Leaks and lawsuits blight Russia facial recognition](https://www.reuters.com/article/us-russia-privacy-lawsuit-feature-trfn/face-for-sale-leaks-and-lawsuits-blight-russia-facial-recognition-idUSKBN27P10U)
 
 ## Supply of goods
 
