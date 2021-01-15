@@ -24,6 +24,7 @@ This is a living document, so please send suggestions for additions through "Iss
 
 - [Houston Schools Must Face Teacher Evaluation Lawsuit](https://www.courthousenews.com/houston-schools-must-face-teacher-evaluation-lawsuit/)
 - [How Amazon automatically tracks and fires warehouse workers for ‘productivity’](https://www.theverge.com/2019/4/25/18516004/amazon-warehouse-fulfillment-centers-productivity-firing-terminations)
+- [Court Rules Deliveroo Used 'Discriminatory' Algorithm](https://www.vice.com/en/article/7k9e4e/court-rules-deliveroo-used-discriminatory-algorithm)
 
 ## Pre-trial risk assessment and criminal sentencing
 
