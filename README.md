@@ -76,6 +76,7 @@ This is a living document, so please send suggestions for additions through "Iss
 - [Machines Taught by Photos Learn a Sexist View of Women](https://www.wired.com/story/machines-taught-by-photos-learn-a-sexist-view-of-women/)
 - [Tenants sounded the alarm on facial recognition in their buildings. Lawmakers are listening.](https://www.msn.com/en-us/news/politics/tenants-sounded-the-alarm-on-facial-recognition-in-their-buildings-lawmakers-are-listening/ar-BBYnaqB)
 - [Google apologizes after its Vision AI produced racist results](https://algorithmwatch.org/en/story/google-vision-racism/)
+- [When AI Sees a Man, It Thinks 'Official.' A Woman? 'Smile'](https://www.wired.com/story/ai-sees-man-thinks-official-woman-smile/)
 
 ## Public Benefits & Health
 
